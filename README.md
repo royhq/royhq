@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Roy!
+### Hi, I'm Roy
 
-This is my personal GitHub account.
+**This is my personal GitHub account.**
 
 My work/professional profile is https://github.com/rcarrion2.
